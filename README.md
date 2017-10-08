@@ -1,0 +1,2 @@
+# GenCoin
+General use coin
